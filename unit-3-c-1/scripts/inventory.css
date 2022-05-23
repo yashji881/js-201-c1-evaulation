@@ -1,0 +1,31 @@
+#all_products{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+#box{
+    border: 1px solid black;
+   margin-left: 10px;
+   align-items: center;
+   width: 350px;
+   margin-top: 20px;
+   margin: auto;
+}
+#remove_product{
+    text-align: center;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+/* h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h4{
+    text-align: center;
+} */
+
+#image{
+    text-align: center;
+}
